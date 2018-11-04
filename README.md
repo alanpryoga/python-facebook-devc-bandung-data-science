@@ -1,4 +1,4 @@
-# Setup Virtual environment
+# Setup Virtual Environment
 ```
 pip install virtualenv
 ```
